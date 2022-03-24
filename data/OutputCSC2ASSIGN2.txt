@@ -1,0 +1,120 @@
+for seed = 7786
+Max     Min    Avg
+17   1   13
+16   1   12
+for seed = 9043
+Max     Min    Avg
+17   1   13
+16   1   12
+for seed = 5625
+Max     Min    Avg
+16   1   13
+15   1   13
+for seed = 1764
+Max     Min    Avg
+15   1   14
+14   1   13
+for seed = 6044
+Max     Min    Avg
+17   1   14
+16   1   13
+for seed = 6066
+Max     Min    Avg
+17   1   13
+16   1   13
+for seed = 6016
+Max     Min    Avg
+17   1   13
+16   1   13
+for seed = 1592
+Max     Min    Avg
+15   1   13
+14   1   13
+for seed = 8622
+Max     Min    Avg
+17   1   13
+16   1   12
+for seed = 6787
+Max     Min    Avg
+16   1   13
+15   1   12
+for seed = 1097
+Max     Min    Avg
+15   1   13
+14   1   13
+for seed = 4394
+Max     Min    Avg
+16   1   13
+15   1   13
+for seed = 3534
+Max     Min    Avg
+16   1   14
+15   1   13
+for seed = 6996
+Max     Min    Avg
+16   1   13
+15   1   12
+for seed = 8529
+Max     Min    Avg
+17   1   13
+16   1   12
+for seed = 6013
+Max     Min    Avg
+16   1   13
+15   1   12
+for seed = 2696
+Max     Min    Avg
+16   1   14
+15   1   13
+for seed = 8103
+Max     Min    Avg
+17   1   13
+16   1   12
+for seed = 5532
+Max     Min    Avg
+17   1   14
+16   1   13
+for seed = 4517
+Max     Min    Avg
+16   1   14
+15   1   13
+for seed = 9703
+Max     Min    Avg
+17   1   13
+16   1   12
+for seed = 2958
+Max     Min    Avg
+16   1   14
+15   1   13
+for seed = 7276
+Max     Min    Avg
+17   1   13
+16   1   12
+for seed = 2253
+Max     Min    Avg
+15   1   14
+14   1   13
+for seed = 4058
+Max     Min    Avg
+16   1   13
+15   1   13
+for seed = 7441
+Max     Min    Avg
+17   1   13
+16   1   12
+for seed = 2916
+Max     Min    Avg
+16   1   14
+15   1   13
+for seed = 9308
+Max     Min    Avg
+17   1   13
+16   1   12
+for seed = 7257
+Max     Min    Avg
+16   1   13
+15   1   12
+for seed = 1357
+Max     Min    Avg
+15   1   13
+14   1   12
