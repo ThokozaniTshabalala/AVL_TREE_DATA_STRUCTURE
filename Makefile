@@ -7,8 +7,8 @@ $(BINDIR)/%.class: $(SRCDIR)/%.java
 	$(JAVAC) -d $(BINDIR)/ -cp $(BINDIR) $<
 
 CLASSES2=Vaccine.class VaccineArray.class \
-	BinaryTreeNode.class BinaryTree.class \
-	BTQueueNode.class BTQueue.class \
+	BinaryTreeNode.class \
+	BTQueueNode.class BTQueue.class BinaryTree.class \
         AVLTree.class AVLExperiment.class \
         AVLExperimentation.class Randomisation.class
 CLASSES=$(CLASSES2:%.class=$(BINDIR)/%.class)
